@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Others
+__pycache__
+venv
+.idea
+mochilib/config.py
+.vs/**
+MochiLib.pyproj
